@@ -50,5 +50,5 @@ Diferente de calculadoras simples de terminal, este projeto oferece uma experiê
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU_USUARIO/BMI-Calculator-Java.git](https://github.com/SEU_USUARIO/BMI-Calculator-Java.git)
+   git clone [https://github.com/SEU_USUARIO/BMI-Calculator-Java.git](https://github.com/Hiann/BMI-Calculator-Java)
    cd BMI-Calculator-Java
