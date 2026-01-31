@@ -73,3 +73,5 @@ Este projeto vai além de uma simples fórmula matemática. Ele foi arquitetado 
    ```bash
    git clone [https://github.com/Hiann/BMI-Calculator-Java.git](https://github.com/Hiann/BMI-Calculator-Java.git)
    cd BMI-Calculator-Java
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiann-alexander)
